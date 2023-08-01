@@ -1,6 +1,4 @@
-### Hi there 👋
-
-👋 Hello there! Welcome to my GitHub page!
+👋 **Hello there!** Welcome to my GitHub page!
 
 I'm currently studying HTML, CSS, Git, GitHub, JavaScript, and React through Skillcrush, an online school dedicated to empowering aspiring developers like me. While I may not have direct coding experience just yet, I'm passionate about diving into the world of web development and honing my skills.
 
